@@ -1,12 +1,12 @@
-# CircaLLM: a foundation model for circadian pattern analysis of gene expression
+# CircaFM: a foundation model for circadian pattern analysis of gene expression
 
-This repository contains the complete implementation of CircaLLM, a novel framework for circadian rhythm analysis using large language models, along with both synthetic and real biological datasets.
+This repository contains the complete implementation of CircaFM, a novel framework for circadian rhythm analysis using large language models, along with both synthetic and real biological datasets.
 
 ---
 
-The folders in the CircaLLM repository:
+The folders in the CircaFM repository:
 
-- **CircaLLM_codes**: Source code for CircaLLM model.
+- **CircaFM_codes**: Source code for CircaFM model.
   
   - models: Core model implementations
   
@@ -68,8 +68,8 @@ The folders in the CircaLLM repository:
 ## 1. Installation
 
 ```bash
-git clone https://github.com/NJAU-CDSIC/CircaLLM.git
-cd CircaLLM
+git clone https://github.com/NJAU-CDSIC/CircaFM.git
+cd CircaFM
 ```
 
 ## 2. Environment Installation
@@ -77,8 +77,8 @@ cd CircaLLM
 It is recommended to use the conda environment (python 3.11), mainly installing the following dependencies:
 
 ```bash
-conda env create -n circallm python==3.11
-conda activate circallm
+conda env create -n circafm python==3.11
+conda activate circafm
 pip install -r requirements.txt
 ```
 
@@ -86,7 +86,7 @@ See requirements.txt for details.
 
 ## 3. Datasets and model parameters
 
-To ensure repository stability and comply with platform size limitations, critical components of CircaLLM are hosted externally on figshare. **Full functionality requires downloading these resources separately**:
+To ensure repository stability and comply with platform size limitations, critical components of CircaFM are hosted externally on figshare. **Full functionality requires downloading these resources separately**:
 
 ### 🔗 Essential Figshare Resources
 
@@ -100,6 +100,6 @@ To ensure repository stability and comply with platform size limitations, critic
 ## 4.  Execute the code cell by cell in the Python interactive window
   
 Run the Jupyter notebook at the following path:  
-**`CircaLLM_code/Oscillation detection demo.ipynb`** for Oscillation detection
+**`CircaFM_code/Oscillation detection demo.ipynb`** for Oscillation detection
 
-**`CircaLLM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
+**`CircaFM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
