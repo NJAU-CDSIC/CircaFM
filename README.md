@@ -25,15 +25,15 @@ The folders in the CircaFM repository:
   - Circadian variation detection demo.ipynb: This Jupyter Notebook demonstrates Circadian variation detection in time-series data using a pre-trained model.
 
 - **Simulated datasets**: Artificially generated time-series data
-  - 18 specialized datasets (SynthDST-1 to SynthDST-18) for two primary tasks:
-    - **Circadian Oscillation**: 10 datasets (SynthDST-1 to SynthDST-10)
-    - **Differential Rhythmicity**: 8 datasets (SynthDST-11 to SynthDST-18)
+  - 21 specialized datasets (SynthDST-1 to SynthDST-21) for two primary tasks:
+    - **Circadian Oscillation**: 12 datasets (SynthDST-1 to SynthDST-12)
+    - **Differential Rhythmicity**: 9 datasets (SynthDST-13 to SynthDST-21)
   - Readme.md: Dataset documentation
 
-- **Real datasets**: Circadian rhythm-related transcriptome dataset
+- **Real datasets**: Curated circadian rhythm transcriptome datasets
   - Two comprehensive biological datasets:
-    - **RealDST1**: 38 sub-datasets with 480,983 genes
-    - **RealDST2**: 19 sub-datasets with 108,835 genes
+    - **CGDB-20K**: 18 sub-datasets covering 20,886 circadian genes
+    - **DIFF-13K**: 6 sub-datasets covering 13,619 differential rhythmicity genes
   - Readme.md: Dataset documentation
  
 - **Datasets for Case study**: Curated real-world time-course datasets for in-depth biological analysis  
