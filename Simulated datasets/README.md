@@ -45,10 +45,11 @@ This repository contains artificially generated datasets for **Circadian Oscilla
 
 Each dataset consists of three time-series files in the following structure:
 
-**Examples**:  
+**Examples**:
 
+```text
 ├── SynthDST-1/   # Dataset folder
-│   ├── TRAIN.ts  
+│   ├── TRAIN.ts
 │   ├── VALIDATION.ts
 │   └── TEST.ts
 │
