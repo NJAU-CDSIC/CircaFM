@@ -41,8 +41,6 @@ The folders in the CircaFM repository:
  
 - **SOTA**: 10 models used in the comparative study:
 
-  - BIOCYCLE: <http://circadiomics.igb.uci.edu/biocycle>
-
   - JTK_CYCLE: <https://CRAN.R-project.org/package=MetaCycle>
 
   - Cosiner: <https://CRAN.R-project.org/package=cosinor>
@@ -51,15 +49,17 @@ The folders in the CircaFM repository:
 
   - MetaCycle: <https://CRAN.R-project.org/package=MetaCycle>
 
-  - CircaCompare: <https://CRAN.R-project.org/package=circacompare>
+  - DODR: <https://CRAN.R-project.org/package=DODR>
+ 
+  - LimoRhyde: <https://CRAN.R-project.org/package=limorhyde>
+ 
+  - dryR: <https://github.com/naef-lab/dryR>
+ 
+  - BayesDCirc: <https://github.com/lichen-lab/BayesDCirc>
 
   - diffCircadian: <https://github.com/diffCircadian/diffCircadian>
-
-  - LimoRhyde: <https://CRAN.R-project.org/package=limorhyde>
-
-  - HANOVA: <https://CRAN.R-project.org/package=DODR>
-
-  - robust DODR: <https://CRAN.R-project.org/package=DODR>
+ 
+  - CircaCompare: <https://CRAN.R-project.org/package=circacompare>
 
 ---
 
