@@ -37,7 +37,8 @@ The folders in the CircaFM repository:
   - Readme.md: Dataset documentation
  
 - **Datasets for Case study**: Curated real-world time-course datasets for in-depth biological analysis  
-  - Contains 15 specialized case studies across diverse biological contexts
+  - Contains 19 specialized case studies across diverse biological contexts
+  - Readme.md: Dataset documentation
  
 - **SOTA**: 10 models used in the comparative study:
 
