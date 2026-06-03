@@ -6,7 +6,7 @@ This repository contains the complete implementation of CircaFM, a novel framewo
 
 The folders in the CircaFM repository:
 
-- **CircaFM_codes**: Source code for CircaFM model.
+- **CircaFM_codes**: Source code for CircaFM model
   
   - models: Core model implementations
   
