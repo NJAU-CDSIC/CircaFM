@@ -9,7 +9,7 @@ The datasets provide experimentally validated time-series measurements with deta
 
 ## File Structure
 
-- **CGDB-20K sub-datasets** each contain training, validation, and test splits (`TRAIN.ts`, `VALIDATION.ts`, `TEST.ts`).
+- **CGDB-20K sub-datasets** each contain only test sets (`TEST.ts`) for evaluation, consistent with the circadian oscillation task format.
 - **DIFF-13K sub-datasets** each contain only test sets (`TEST.ts`) for evaluation, consistent with the differential rhythmicity task format.
 
 ```text
