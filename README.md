@@ -94,7 +94,6 @@ To ensure repository stability and comply with platform size limitations, critic
 | Resource Category | Figshare Access | Required For |
 |:-----------------:|:---------------:|:------------:|
 | **Pre-trained Models** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) | Model inference, Transfer learning |
-| **Visual Assets** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) | Training curves, Result visualizations |
 | **Simulated Datasets** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) | Model training, Method validation |
 | **Real Datasets** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) |  Method validation |
 
