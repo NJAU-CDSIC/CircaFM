@@ -40,7 +40,7 @@ The folders in the CircaFM repository:
   - Contains 19 specialized case studies across diverse biological contexts
   - Readme.md: Dataset documentation
  
-- **SOTA**: 10 models used in the comparative study:
+- **SOTA**: 11 models used in the comparative study:
 
   - JTK_CYCLE: <https://CRAN.R-project.org/package=MetaCycle>
 
@@ -61,6 +61,8 @@ The folders in the CircaFM repository:
   - diffCircadian: <https://github.com/diffCircadian/diffCircadian>
  
   - CircaCompare: <https://CRAN.R-project.org/package=circacompare>
+ 
+  - compareRhythms: <https://github.com/bharathananth/compareRhythms>
 
 ---
 
