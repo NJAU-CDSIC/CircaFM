@@ -16,9 +16,9 @@ The folders in the CircaFM repository:
   
   - utils: Support utilities and tools
 
-  - pretrained: Contains pre-trained model checkpoints (Empty in GitHub - download from [FigShare](https://doi.org/10.6084/m9.figshare.29322500))
+  - pretrained: Contains pre-trained model checkpoints (Empty in GitHub - download from (https://doi.org/10.6084/m9.figshare.29322500))
 
-  - assets: Contains experimental results (large files available on [FigShare](https://doi.org/10.6084/m9.figshare.29322500))
+  - assets: Contains experimental results (large files available on (https://doi.org/10.6084/m9.figshare.29322500))
  
   - Oscillation detection demo.ipynb: This Jupyter Notebook demonstrates oscillation detection in time-series data using a pre-trained model.
  
@@ -95,9 +95,9 @@ To ensure repository stability and comply with platform size limitations, critic
 
 | Resource Category | Figshare Access | Required For |
 |:-----------------:|:---------------:|:------------:|
-| **Pre-trained Models** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) | Model inference, Transfer learning |
-| **Simulated Datasets** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) | Model training, Method validation |
-| **Real Datasets** | [Download Link](https://doi.org/10.6084/m9.figshare.29322500) |  Method validation |
+| **Pre-trained Models** | <https://doi.org/10.6084/m9.figshare.29322500> | Model inference, Transfer learning |
+| **Simulated Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> | Model training, Method validation |
+| **Real Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> |  Method validation |
 
 ## 4.  Execute the code cell by cell in the Python interactive window
   
