@@ -121,7 +121,7 @@ Run the Jupyter notebook at the following path:
 
 **`CircaFM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
 
-## 6 Use the pre-trained model in your own code
+## 6.  Use the pre-trained model in your own code
 
 To reuse the downloaded pre-trained CircaFM model, you only need to set the following two parameters in `args`:
 
