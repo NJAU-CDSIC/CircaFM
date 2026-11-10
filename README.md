@@ -112,6 +112,7 @@ CircaFM_code/
 │   └── Oscillation detection.pth
 ├── Oscillation detection demo.ipynb
 └── Circadian variation detection demo.ipynb
+```
 
 ## 5.  Execute the code cell by cell in the Python interactive window
   
@@ -133,3 +134,4 @@ args = Namespace(
     pretrained_model_path="/path/to/CircaFM_code/pretrained/Circadian variation detection.pth",
     lora=True,
 )
+```
