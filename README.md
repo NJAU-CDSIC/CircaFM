@@ -95,7 +95,7 @@ To ensure repository stability and comply with platform size limitations, critic
 
 | Resource Category | Figshare Access | Required For |
 |:-----------------:|:---------------:|:------------:|
-| **Pre-trained Models** | <https://doi.org/10.6084/m9.figshare.29322500> | Model inference, Transfer learning |
+| **Pre-trained CircaFM** | <https://doi.org/10.6084/m9.figshare.29322500> | Model inference, Transfer learning |
 | **Simulated Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> | Model training, Method validation |
 | **Real Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> |  Method validation |
 
