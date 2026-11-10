@@ -114,14 +114,7 @@ CircaFM_code/
 └── Circadian variation detection demo.ipynb
 ```
 
-## 5.  Execute the code cell by cell in the Python interactive window
-  
-Run the Jupyter notebook at the following path:  
-**`CircaFM_code/Oscillation detection demo.ipynb`** for Oscillation detection
-
-**`CircaFM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
-
-## 6.  Load and use the pre-trained model
+## 5.  Load and use the pre-trained model
 
 To reuse the downloaded pre-trained CircaFM model, you only need to set the following two parameters in `args`:
 
@@ -135,3 +128,10 @@ args = Namespace(
     lora=True,
 )
 ```
+
+## 6.  Execute the code cell by cell in the Python interactive window
+  
+Run the Jupyter notebook at the following path:  
+**`CircaFM_code/Oscillation detection demo.ipynb`** for Oscillation detection
+
+**`CircaFM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
