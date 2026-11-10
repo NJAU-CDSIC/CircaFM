@@ -99,9 +99,37 @@ To ensure repository stability and comply with platform size limitations, critic
 | **Simulated Datasets** | `Simulated datasets` | <https://doi.org/10.6084/m9.figshare.29322500> | Model training, Method validation |
 | **Real Datasets** | `Real datasets` | <https://doi.org/10.6084/m9.figshare.29322500> | Method validation |
 
-## 4.  Execute the code cell by cell in the Python interactive window
+## 4. Place the pre-trained weights and run the demo notebooks
+
+Before running the demo, download the **Pre-trained CircaFM** resources from Figshare and place the `.pth` weight files into the `pretrained/` folder under `CircaFM_code/`.
+
+The expected directory structure is:
+
+```text
+CircaFM_code/
+├── pretrained/
+│   ├── Circadian variation detection.pth
+│   └── Oscillation detection.pth
+├── Oscillation detection demo.ipynb
+└── Circadian variation detection demo.ipynb
+
+## 5.  Execute the code cell by cell in the Python interactive window
   
 Run the Jupyter notebook at the following path:  
 **`CircaFM_code/Oscillation detection demo.ipynb`** for Oscillation detection
 
 **`CircaFM_code/Circadian variation detection demo.ipynb`** for Circadian variation detection
+
+### 6 Use the pre-trained model in your own code
+
+To reuse the downloaded pre-trained CircaFM model, you only need to set the following two parameters in `args`:
+
+- `pretrained_model_path`: path to the downloaded `.pth` weight file.
+- `lora=True`: keep LoRA enabled so that the model matches the released pre-trained checkpoint.
+
+```python
+args = Namespace(
+    # Key parameters for using the pre-trained model
+    pretrained_model_path="/path/to/CircaFM_code/pretrained/Circadian variation detection.pth",
+    lora=True,
+)
