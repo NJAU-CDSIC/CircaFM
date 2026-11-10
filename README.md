@@ -93,11 +93,11 @@ To ensure repository stability and comply with platform size limitations, critic
 
 ### 🔗 Essential Figshare Resources
 
-| Resource Category | Figshare Access | Required For |
-|:-----------------:|:---------------:|:------------:|
-| **Pre-trained CircaFM** | <https://doi.org/10.6084/m9.figshare.29322500> | Model inference, Transfer learning |
-| **Simulated Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> | Model training, Method validation |
-| **Real Datasets** | <https://doi.org/10.6084/m9.figshare.29322500> |  Method validation |
+| Resource Category | Figshare Folder Name | Figshare Access | Required For |
+|:-----------------:|:--------------------:|:---------------:|:------------:|
+| **Pre-trained CircaFM** | `Pre-trained CircaFM` | <https://doi.org/10.6084/m9.figshare.29322500> | Model inference, Transfer learning |
+| **Simulated Datasets** | `Simulated Datasets` | <https://doi.org/10.6084/m9.figshare.29322500> | Model training, Method validation |
+| **Real Datasets** | `Real Datasets` | <https://doi.org/10.6084/m9.figshare.29322500> | Method validation |
 
 ## 4.  Execute the code cell by cell in the Python interactive window
   
